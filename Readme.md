@@ -11,7 +11,8 @@ The **Open Source University Courses Repository** is a decentralized platform po
 
 ## Contract Address
 0x70998c72BE759e4793930e7a813fC995ef158186
-![Screenshot 2024-12-21 142753](https://github.com/user-attachments/assets/d2a6a10b-7447-4d26-b12a-4e93bc087c45)
+![Screenshot 2024-12-21 142753](https://github.com/user-attachments/assets/cb7508b0-a7f1-4ef7-a4b3-1435c9ca997a)
+
 
 ## Project Vision
 The vision of the Open Source University Courses Repository is to create a global, decentralized educational ecosystem where everyone, regardless of location, can access high-quality university-level courses. By using blockchain technology, the project ensures transparency, accountability, and security in the creation and management of courses. We aim to foster an open, collaborative, and inclusive educational environment that is not restricted by geographical or institutional barriers.
